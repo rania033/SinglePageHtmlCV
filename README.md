@@ -1,7 +1,7 @@
 # SinglePageHtmlCV
 
 ## Project URL
-[https://gitlab.com/raniagaaloul04/singlepagehtmlcv](https://gitlab.com/raniagaaloul04/singlepagehtmlcv)
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## Getting started
 
